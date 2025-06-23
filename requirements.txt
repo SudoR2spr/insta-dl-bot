@@ -1,0 +1,5 @@
+requests
+python-telegram-bot
+Flask
+waitress
+beautifulsoup4
